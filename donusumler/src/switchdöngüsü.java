@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Random;
 
 public class switchdöngüsü {
     public static void main(String[] args) {
@@ -6,8 +7,7 @@ public class switchdöngüsü {
 
         System.out.print("Bir rakam giriniz: ");
         int rakam = scanner.nextInt();
-
-            switch (rakam) {
+        switch (rakam) {
                 case 1:
                     System.out.println("Pazartesi");
                     break;

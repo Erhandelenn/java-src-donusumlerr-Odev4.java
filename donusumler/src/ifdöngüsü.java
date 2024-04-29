@@ -1,9 +1,9 @@
 import java.util.Scanner;
+import java.util.Random;
 
-public class ifdöngüsü {
-    public static void main(String[] args) {
+public class ifdöngüsü
+{ public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         System.out.print("Bir rakam giriniz: ");
         int rakam = scanner.nextInt();
 
@@ -24,7 +24,6 @@ public class ifdöngüsü {
         } else {
             System.out.println("Hatalı rakam. 1 ile 7 arasında bir rakam giriniz.");
         }
-
         scanner.close();
     }
 }
