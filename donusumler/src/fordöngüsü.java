@@ -9,7 +9,7 @@ public class fordöngüsü
             int tutulanSayi = random.nextInt();
 
             for (int i = 3; i > 0; i--) {
-                System.out.print("Sayı tahmininiz: ");
+                System.out.println("Sayı tahmininiz: ");
                 int tahmin = scanner.nextInt();
 
                 if (tahmin == tutulanSayi) {

@@ -5,7 +5,7 @@ public class switchdöngüsü {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Bir rakam giriniz: ");
+        System.out.println("Bir rakam giriniz: ");
         int rakam = scanner.nextInt();
         switch (rakam) {
                 case 1:
