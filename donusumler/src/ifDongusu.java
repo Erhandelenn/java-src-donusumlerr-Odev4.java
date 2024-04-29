@@ -23,5 +23,5 @@ public class ifDongusu
         System.out.println("Hatalı rakam. 1 ile 7 arasında bir rakam giriniz.");
     }
     scanner.close();
-}
+ }
 }
