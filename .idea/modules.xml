@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/degiskenler veri tipleri/degiskenler veri tipleri.iml" filepath="$PROJECT_DIR$/degiskenler veri tipleri/degiskenler veri tipleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donusumler/donusumler.iml" filepath="$PROJECT_DIR$/donusumler/donusumler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if else/if else.iml" filepath="$PROJECT_DIR$/if else/if else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odev2/odev2.iml" filepath="$PROJECT_DIR$/odev2/odev2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
