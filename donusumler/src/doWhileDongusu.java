@@ -21,7 +21,7 @@ public class doWhileDongusu {
                 break;
             }
             System.out.println("Bilemediniz. Kalan tahmin hakkınız: " + tahminHakki);
-        } while(tahminHakki > 0);
+        } while(tahminHakki >0);
         scanner.close();
     }
 }
