@@ -26,4 +26,4 @@ public class forDongusu
     }
     scanner.close();
   }
- }
+}
