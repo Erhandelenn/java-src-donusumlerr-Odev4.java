@@ -24,4 +24,4 @@ public class doWhileDongusu {
         } while( tahminHakki > 0 );
         scanner.close();
     }
-}
+ }
